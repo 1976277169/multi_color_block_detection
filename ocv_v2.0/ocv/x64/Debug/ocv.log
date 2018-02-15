@@ -1,0 +1,8 @@
+﻿  ocv.cpp
+c:\users\niraj\source\repos\ocv\ocv\ocv.cpp(99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\niraj\source\repos\ocv\ocv\ocv.cpp(111): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\niraj\source\repos\ocv\ocv\ocv.cpp(110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\niraj\source\repos\ocv\ocv\ocv.cpp(173): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\niraj\source\repos\ocv\ocv\ocv.cpp(187): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\niraj\source\repos\ocv\ocv\ocv.cpp(188): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ocv.vcxproj -> C:\Users\niraj\source\repos\ocv\x64\Debug\ocv.exe
